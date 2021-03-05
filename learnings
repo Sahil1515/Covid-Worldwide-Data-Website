@@ -1,0 +1,7 @@
+
+
+Create Project:
+django-admin startproject covid   
+
+Create the app:
+python3 manage.py startapp covidapp
